@@ -6,9 +6,9 @@ This presents some useful verb conjugations (modal flexions) in Japanese. Those 
 
 ## 意向形 (いこうけい) / Volitional form / 〜おう
 #### Uses :
-* [Cohortative][Modalities - Hortative] even though this form is named *volition*, its primary use is cohortation.
+* [Cohortation][Intentions - Hortation]: even though this form is named *volition*, its primary use is cohortation.
 
-[Modalities - Hortative]: JP-Modalities.md#(Co)hortative
+[Intentions - Hortation]: JP-Intentions.md#(Co)hortation
 #### Flexions :
 * __一段動詞 (*ichidan verbs*):__ 
 未然形 (irrealis.) + **よう**

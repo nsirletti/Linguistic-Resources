@@ -65,4 +65,4 @@ __Examples :__
 * Plain negative interrogation can be used to express **exhortation** as well as [**cohortation**][Modalities - Cohortation].
 
 
-[Modalities - Cohortation]: JP-Modalities.md#(#(Co)hortative)
+[Modalities - Cohortation]: JP-Intentions.md#(#(Co)hortation)

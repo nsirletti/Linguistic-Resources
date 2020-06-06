@@ -1,11 +1,12 @@
-# Modalities in Japanese
+# Intentions in Japanese
+This presents a list of possible intentions and illuctionary points allowed for propositions in Japanese, as well as strategies to convey said intentions.
 ***
 
-## Volitional
+## Volition
 
 
 
-## (Co)hortative
+## (Co)hortation
 Hortative modalities (abbreviated HORT) are verbal expressions used by the speaker to encourage or discourage an action. Different hortatives can be used to express greater or lesser intensity, or the speaker's attitude, for or against it.  (Source: [Wikipedia][Wikipedia - Hortative]).  
  
  **Co**hortative specifically refers to the first-person plural version of hortative, in which the speaker invites the addressee to engage together in the action. 
@@ -16,8 +17,9 @@ Hortative modalities (abbreviated HORT) are verbal expressions used by the speak
 
 ### Related phrases :
 
+---
 
-### Through verb mood
+### Through verbal morphology
 ##### [意向形][Verb Conjugations - Volitional] (いこうけい) / Volitional form / 〜おう
 The main function of the "volitional" verb form is actually cohortative.
 
