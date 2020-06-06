@@ -1,12 +1,15 @@
 # Japanese verb conjugations
-This presents some useful verb conjugations (modal flexions) in Japanese
+This presents some useful verb conjugations (modal flexions) in Japanese. Those flexions are built upon the more basic [verb stem forms][Stem Forms].
+[Stem Forms]: JP-Verb-Stem-Forms.md
 ***
 
 
-#### 意向形 (いこうけい) / Volitional form / 〜おう
-*(Even though this form is called volitional in japanese learning, its primary use is cohortation rather than volition)*
+## 意向形 (いこうけい) / Volitional form / 〜おう
+#### Uses :
+* [Cohortative][Modalities - Hortative] even though this form is named *volition*, its primary use is cohortation.
 
-__Grammatical formation__ : 
+[Modalities - Hortative]: JP-Modalities.md#(Co)hortative
+#### Flexions :
 * __一段動詞 (*ichidan verbs*):__ 
 未然形 (irrealis.) + **よう**
 **e.g.** 食べよう, 
