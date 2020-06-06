@@ -21,3 +21,24 @@ This presents some useful verb conjugations (modal flexions) in Japanese. Those 
 * __〜ます (敬語):__ 
 〜ましょう
 **e.g.** 行きまそう, 食べましょう
+
+
+## Vて / て形 / Verb て form
+#### Uses :
+* [Volition][Intentions - Volition]: **Vてある** with a **他動詞** (transitive verb) can indicate that the *passive subject* is in a given state per the result of a purposeful action.
+
+[Intentions - Volition]: JP-Intentions.md#Volition
+
+### Flexions :
+
+|             | 基本形 | て形 |
+|:-----------:|:-----:|:---:| 
+|     一段     | 食べる |食べて|
+|     カ行     |  動く  |動いて|
+|(ガ/ナ/バ/マ)行|  泳ぐ  |泳いで|
+|     サ行     |  消す  |消して|
+| (タ/ラ/ワ)行  |  切る  |切って|
+|     する     |  する  | して |
+|     来る     |  来る  | 来て |
+|     行く     |  行く  |行って|
+|   --ます     | --ます |--まして|

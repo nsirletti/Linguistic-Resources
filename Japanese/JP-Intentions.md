@@ -3,11 +3,31 @@ This presents a list of possible intentions and illuctionary points allowed for 
 ***
 
 ## Volition
+Volition is a concept that distinguishes whether the subject, or agent of a particular sentence intended an action or not. Simply, it is the intentional or unintentional nature of an action ([Wikipedia][Wikipedia - Volition]).
 
+[Wikipedia - Volition]: https://en.wikipedia.org/wiki/Volition_(linguistics)
 
+### Related phrases
+__意図的(な) / いとてき(な):__ Intentional
+
+### Through a modal adverb
+##### わざと ( 態と )
+* **彼女はわざとドレスをみ見せびらかした** *She purposely showed off her dress.*
+* **彼はわたし私をわざとま待たせたようだ** *It is likely that he kept me waiting on purpose.*
+* **彼はかびん花瓶をわざとこわ壊した** *He broke the flower vase un purpose.*
+* **わざと?** *(Was that) on purpose ?*
+
+### Through an auxiliary
+##### [Vてある][Verb Conjugations - Vて]
+If V is a **他動詞** (transitive verb), **「N(は/が)Vてある」** means that the *passive subject* N has been altered as the result of the *purposeful* human action V.
+* **窓が閉めてあります** *The window has been closed.*
+(Compare with **窓が閉まっています** *The window is closed.*)
+* **机の上に辞書が置いてある** *A dictionnary has been (intentionnaly) laid on the table*
+
+[Verb Conjugations - Vて]: JP-Verb-Conjugations.md##Vて-/-て形-/-Verb-て-form
 
 ## (Co)hortation
-Hortative modalities (abbreviated HORT) are verbal expressions used by the speaker to encourage or discourage an action. Different hortatives can be used to express greater or lesser intensity, or the speaker's attitude, for or against it.  (Source: [Wikipedia][Wikipedia - Hortative]).  
+Hortative modalities (abbreviated HORT) are verbal expressions used by the speaker to encourage or discourage an action. Different hortatives can be used to express greater or lesser intensity, or the speaker's attitude, for or against it.  ([Wikipedia][Wikipedia - Hortative]).  
  
  **Co**hortative specifically refers to the first-person plural version of hortative, in which the speaker invites the addressee to engage together in the action. 
 
